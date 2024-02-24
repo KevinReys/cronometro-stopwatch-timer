@@ -2,15 +2,15 @@
 Este é um simples cronômetro desenvolvido em HTML, CSS e JavaScript.
 
 ## Funcionalidades
-Start: Inicia o cronômetro.
-Stop: Pára o cronômetro.
+Start: Inicia o cronômetro;
+Stop: Pára o cronômetro;
 Restart: Reinicia o cronômetro para 00:00:00.
 
 ## Como usar
-Clone este repositório para o seu ambiente local.
-Abra o arquivo index.html em um navegador da web.
-Clique no botão "Start" para iniciar o cronômetro.
-Utilize o botão "Stop" para dar início a contagem.
+Clone este repositório para o seu ambiente local;
+Abra o arquivo index.html em um navegador da web;
+Clique no botão "Start" para iniciar o cronômetro;
+Utilize o botão "Stop" para dar início a contagem;
 Utilize o botão "Restart" para zerar a contagem.
 
 ## Contribuição
