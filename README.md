@@ -10,7 +10,8 @@ Restart: Reinicia o cronômetro para 00:00:00.
 Clone este repositório para o seu ambiente local.
 Abra o arquivo index.html em um navegador da web.
 Clique no botão "Start" para iniciar o cronômetro.
-Utilize os botões "Stop" e "Restart" conforme necessário.
+Utilize o botão "Stop" para dar início a contagem.
+Utilize o botão "Restart" para zerar a contagem.
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorar este projeto.
