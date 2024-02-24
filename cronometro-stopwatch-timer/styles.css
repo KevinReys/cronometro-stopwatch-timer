@@ -1,0 +1,50 @@
+/* Define o estilo do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+    display: flex; /* Usa o modelo de layout flexbox */
+    justify-content: center; /* Centraliza os elementos horizontalmente */
+    align-items: center; /* Centraliza os elementos verticalmente */
+    height: 100vh; /* Define a altura do corpo da página como 100% da altura da tela */
+    background-color: #f0f0f0; /* Define a cor de fundo do corpo da página */
+}
+
+/* Define o estilo do container */
+.container {
+    text-align: center; /* Centraliza o conteúdo do container */
+    border: 2px solid #007bff; /* Define uma borda sólida de 2px com cor #007bff */
+    padding: 20px; /* Adiciona espaço interno de 20px ao redor do conteúdo */
+    border-radius: 10px; /* Adiciona borda arredondada com raio de 10px */
+    background-image: url('img/Digital-Light-Design.jpg'); /* Define uma imagem de fundo */
+    background-size: cover; /* Faz com que a imagem de fundo cubra todo o container */
+    background-position: center; /* Centraliza a imagem de fundo dentro do container */
+}
+
+/* Define o estilo do cabeçalho h1 */
+h1 {
+    color: #2f88e7; /* Define a cor do texto */
+    text-shadow: 0 0 10px #0260c5, 0 0 20px #0260c5, 0 0 30px #0260c5, 0 0 40px #0260c5, 0 0 70px #0260c5, 0 0 80px #0260c5, 0 0 100px #0260c5, 0 0 150px #0260c5; /* Adiciona sombras de texto para criar um efeito de neon */
+}
+
+/* Define o estilo do display do cronômetro */
+.display {
+    font-size: 3rem; /* Define o tamanho da fonte */
+    margin-bottom: 20px; /* Adiciona espaço abaixo do display */
+    color: #fff; /* Define a cor do texto como branco */
+}
+
+/* Define o estilo dos botões de controle */
+.controls button {
+    font-size: 1rem; /* Define o tamanho da fonte */
+    padding: 10px 20px; /* Adiciona preenchimento interno aos botões */
+    margin: 0 5px; /* Adiciona margem entre os botões */
+    cursor: pointer; /* Define o cursor do mouse como ponteiro */
+    border: 2px solid rgb(14, 24, 85)0; /* Define uma borda sólida */
+    background-color: #037bfc; /* Define a cor de fundo dos botões */
+    color: #fff; /* Define a cor do texto como branco */
+    border-radius: 5px; /* Adiciona borda arredondada com raio de 5px */
+}
+
+/* Define o estilo dos botões de controle quando o mouse passa por cima */
+.controls button:hover {
+    background-color: #0260c5; /* Define uma cor de fundo diferente */
+}
