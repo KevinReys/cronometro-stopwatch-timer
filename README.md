@@ -1,20 +1,20 @@
 ## Stopwatch
-Este é um simples cronômetro desenvolvido em HTML, CSS e JavaScript.
+This is a simple stopwatch developed using HTML, CSS, and JavaScript.
 
-## Funcionalidades
-Start: Inicia o cronômetro;
-Stop: Pára o cronômetro;
-Restart: Reinicia o cronômetro para 00:00:00.
+## Features
+- **Start:** Initiates the stopwatch.
+- **Stop:** Pauses the stopwatch.
+- **Restart:** Resets the stopwatch to 00:00:00.
 
-## Como usar
-Clone este repositório para o seu ambiente local;
-Abra o arquivo index.html em um navegador da web;
-Clique no botão "Start" para iniciar o cronômetro;
-Utilize o botão "Stop" para dar início a contagem;
-Utilize o botão "Restart" para zerar a contagem.
+## How to Use
+1. Clone this repository to your local environment.
+2. Open the index.html file in a web browser.
+3. Click the "Start" button to begin the stopwatch.
+4. Use the "Stop" button to pause the countdown.
+5. Use the "Restart" button to reset the countdown.
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorar este projeto.
+## Contribution
+Contributions are welcome! Feel free to open an issue or submit a pull request to improve this project.
 
-## Autor
-Desenvolvido por Kevin Reys
+## Author
+Developed by Kevin Reys
